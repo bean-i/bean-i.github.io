@@ -1,4 +1,5 @@
 ---
+layout: redirect
 title: Github
-permalink: /about/
+redirect: https://github.com/
 ---
